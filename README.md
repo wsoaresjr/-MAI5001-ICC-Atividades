@@ -1,6 +1,6 @@
 # 📘 Atividades - MAI5001 Introdução à Computação
 
-Este repositório contém a resolução das atividades propostas na disciplina **MAI5001 - Introdução à Computação**, de programa do **Mestrado Profissional em Matemática, Estatística e Computação Aplicadas à Indústria**, na USP (Campus São Carlos), desenvolvidas em **Python**. Os exercícios estão organizados por tema e abrangem desde conceitos básicos até Programação Orientada a Objetos (POO).
+Este repositório contém a resolução das atividades propostas na disciplina **MAI5001 - Introdução à Computação**, do programa do **Mestrado Profissional em Matemática, Estatística e Computação Aplicadas à Indústria**, na USP (Campus São Carlos), desenvolvidas em **Python**. Os exercícios estão organizados por tema e abrangem desde conceitos básicos até Programação Orientada a Objetos (POO).
 
 ---
 
