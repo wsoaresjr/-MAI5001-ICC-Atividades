@@ -76,3 +76,13 @@ E inserir os valores manualmente.
 * Explorar conceitos de **POO em Python** (atributos, métodos e herança).
 
 ---
+
+## 📑 Resumos de Apoio
+
+Além dos códigos, o repositório contém resumos com explicações teóricas e exemplos:
+
+- [Resumo Conceitos Básicos e Estruturas de Controle](https://github.com/wsoaresjr/-MAI5001-ICC-Atividades/blob/main/Documenta%C3%A7%C3%A3o/Resumo_1.md)
+
+- [Resumo Funções (Recursividade)](https://github.com/wsoaresjr/-MAI5001-ICC-Atividades/blob/main/Documenta%C3%A7%C3%A3o/Resumo_2.md)
+
+Esses documentos complementam os exercícios e servem como guia de estudo.
